@@ -20,6 +20,10 @@
     padding: 0;
 }
 
+body{
+    overflow-x: hidden;
+}
+
 main, header{
     padding: 1rem;
 }
